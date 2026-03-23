@@ -9,7 +9,6 @@ int main()
     if ((i == 0) || (num > max))
         max = num;
     }
-
     cout << "Max: " << max << endl;
     return 0;
 }
